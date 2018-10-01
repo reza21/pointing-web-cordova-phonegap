@@ -17,6 +17,6 @@
       Reza
   </author>
 
-  <access origin="https://dosenprogramming.com" />
+  <allow-navigation href="https://*/*" />
 
 </widget>
