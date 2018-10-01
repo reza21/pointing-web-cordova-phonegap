@@ -19,5 +19,6 @@
 
   <access origin="*" />
   <allow-navigation href="https://*/*" />
+  <allow-intent href="https://*/*" />
 
 </widget>
