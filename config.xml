@@ -21,7 +21,9 @@
     <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
   </feature> -->
   
-  <plugin name="cordova-plugin-inappbrowser" />
+  <gap:plugin name="cordova-plugin-whitelist" source="npm" version="~1" />
+    <gap:plugin name="org.apache.cordova.inappbrowser" />
+    <gap:plugin name="org.apache.cordova.splashscreen" />
     
   <access origin="*" />
   <allow-intent href="https://*/*" />
