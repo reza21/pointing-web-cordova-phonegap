@@ -18,7 +18,8 @@
   </author>
 
   <access origin="*" />
-  <allow-navigation href="https://*/*" />
   <allow-intent href="https://*/*" />
+  <allow-navigation href="https://*/*" />
+  
 
 </widget>
