@@ -17,10 +17,12 @@
       Reza
   </author>
     
-  <feature name="InAppBrowser">
+  <!-- <feature name="InAppBrowser">
     <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
-  </feature>
-
+  </feature> -->
+  
+  <plugin name="cordova-plugin-inappbrowser" />
+    
   <access origin="*" />
   <allow-intent href="https://*/*" />
   <allow-navigation href="https://*/*" />
