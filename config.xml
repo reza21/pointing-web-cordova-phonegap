@@ -17,7 +17,7 @@
       Reza
   </author>
 
-  <access origin="*" />
-  <allow-navigation href="https://*/*" />
+  <!--  <access origin="*" />
+  <allow-navigation href="https://*/*" /> -->
 
 </widget>
